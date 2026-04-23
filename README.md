@@ -41,3 +41,6 @@ Zimmermann, J., Perry, A., Breakspeare, M. et al. Differentiation of Alzheimer'
 (Monteverdi et al., 2022): Monteverdi A, Palesi F, Costa A, Vitali P, Pichiecchio A, Cotta Ramusino M, Bernini S, Jirsa V, Gandini Wheeler-Kingshott CAM and D’Angelo E (2022) Subject-specific features of excitation/inhibition profiles in neurodegenerative diseases. Front. Aging Neurosci. 14:868342. doi: 10.3389/fnagi.2022.868342
 
 (Monteverdi et al., 2022): Monteverdi A, Palesi F, Schirner M, Argentino F, Merante M, Redolfi A, Conca F, Mazzocchi L, Cappa SF, Cotta Ramusino M, Costa A, Pichiecchio A, Farina LM, Jirsa V, Ritter P, Gandini Wheeler-Kingshott CAM and D’Angelo E (2023) Virtual brain simulations reveal network-specific parameters in neurodegenerative dementias. Front. Aging Neurosci. 15:1204134. doi: 10.3389/fnagi.2023.1204134
+
+
+Brain dynamics simulations with TheVirtualBrain can be performed online after free registration and login on Ebrains platform at https://wiki.ebrains.eu/bin/view/Collabs/tvb-ww-tutorial/Lab.
