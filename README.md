@@ -1,6 +1,6 @@
 **Modeling resting state with TVB**
 
-Anita Monteverdi, Fulvia Palesi, Marta Gaviraghi, and Roberta Maria Lorenzi
+Anita Monteverdi, Fulvia Palesi, Marta Gaviraghi, Roberta Maria Lorenzi, Egidio D'Angelo
 
 **What can I find here?**
 
